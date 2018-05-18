@@ -1,0 +1,12 @@
+title: |
+  Modernizing Traditional .NET Apps
+  with Docker
+
+chat: "[Slack](https://dockercommunity.slack.com/messages/C7GKACWDV)"
+
+exclude:
+- in-person
+- btp-auto
+
+chapters:
+- windows/part-1.md
